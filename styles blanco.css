@@ -200,7 +200,7 @@ body {
     text-align: center;
     margin: 0;
     color: rgba(255,255,255,0.2);
-    background-image: url("C:/Users/Esteban/Documents/Coding/Web Design/Trabajar/Portfolio/IMG/void tittle.png");  
+    background-image: url("https://raw.githubusercontent.com/tarjeta-de-presentacion/estebanwc/main/png%20optimize/void%20tittle.png");  
     -webkit-background-clip: text; 
     animation: animate 15s linear infinite;
     -webkit-text-stroke: 2px #000; 
