@@ -476,7 +476,7 @@ body {
       height: 100%;
       left: 0;
       top: 0;
-      background: url("C:/Users/Esteban/Pictures/Camera Roll/fondo mario.jpg") no-repeat center;
+      background: url("https://raw.githubusercontent.com/tarjeta-de-presentacion/estebanwc/main/png%20optimize/fondo%20mario.jpg") no-repeat center;
       background-size: cover;
       filter: blur(50px);
       z-index: -1; 
