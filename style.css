@@ -1,7 +1,18 @@
 
 body {
-  cursor: none;
-}  
+  cursor: none; 
+  background: url("https://w0.peakpx.com/wallpaper/469/728/HD-wallpaper-windows-10-dark-ultra-windows-windows-10-dark-background.jpg"); 
+  background-attachment: fixed; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}   
+
+#nav-side1{
+  background-color: transparent;
+}
+
+
 
 .button { 
   color: #80ced6;
@@ -482,7 +493,7 @@ body {
 }
 
 .left{
-	background: url("https://raw.githubusercontent.com/tarjeta-de-presentacion/estebanwc/main/png%20optimize/contact1.png") no-repeat center;
+	background: url("https://raw.githubusercontent.com/tarjeta-de-presentacion/estebanwc/main/png%20optimize/contact%20me.png") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
